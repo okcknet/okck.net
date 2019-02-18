@@ -5,7 +5,7 @@ draft: true
 ---
 
 Hello World :)
-This is the first post for Hugo tryout. I hope I will solve the basics. 
+This is the first post for Hugo tryout. **I hope** I will solve the basics. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNDMyNjg1XX0=
+eyJoaXN0b3J5IjpbLTEwODIzOTMxNV19
 -->
