@@ -1,4 +1,4 @@
 baseURL = "https://blog.okck.net/"
 languageCode = "tr-tr"
 title = "OKCK.net Blog"
-theme = "freedom"
+theme = "ananke"
